@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    background-color:rebeccapurple;
+    font-family: cursive;
+    font-size: 25px;
+    color: chocolate;
+}
+
+img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+#bake {
+    text-shadow: 2px 2px #F8BBD0;
+    font-size: 40px;
+    text-align: center;
+
+}
+
+line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+
+#bio {
+    padding: 20px;
+    font-size: 18;
+    text-align: center;
+}
+
+
